@@ -3,8 +3,8 @@
 - Call me Win or WinDev
 - Passionate Sys Admin
 - Lost³ and IT specialist full-time
-- Soon one of three HPC Cluster owners
-- Taken ❤️[Phill030](https://github.com/phill030)
+- Soon one of two HPC Cluster owners
+- Enterprise Cloud Owner
 
 ### Fav companies:
 - Fujitsu
