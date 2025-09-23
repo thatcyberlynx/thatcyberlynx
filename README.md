@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Call me Win or WinDev
+- Call me Lynx
 - Passionate Sys Admin
 - Lost³ and IT specialist full-time
 - Soon one of two HPC Cluster owners
@@ -18,4 +18,4 @@ and macOS <br />
 
 ![Tnet Servers](https://raw.githubusercontent.com/twdtech/twdtech/refs/heads/main/imgs/IMG_3271_watermarked.avif)
 
-~TWD
+~TCL
