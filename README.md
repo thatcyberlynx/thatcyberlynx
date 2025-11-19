@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Call me Lynx
-- Passionate Sys Admin
+- Passionate Sys Admin and Datacenter lover
 - Lost³ and IT specialist full-time
 - Soon one of two HPC Cluster owners
 - Enterprise Cloud Owner
