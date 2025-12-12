@@ -16,6 +16,6 @@ and BSD <br />
 and Windows <br />
 and macOS <br />
 
-![Tnet Servers](https://raw.githubusercontent.com/twdtech/twdtech/refs/heads/main/imgs/IMG_3271_watermarked.avif)
+![Tnet Servers](https://raw.githubusercontent.com/twdtech/twdtech/refs/heads/main/imgs/IMG_7139.avif)
 
 ~TCL
